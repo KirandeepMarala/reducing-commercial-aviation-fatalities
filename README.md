@@ -39,3 +39,4 @@ We all Know that Aviation is the Key Industry to Globalization.It Constitutes ne
 * The model is deployed using Flask in Local System.
 
 # If you like this project please do give a star. I am also giving my LinkedIn profile. If you want we can connect there too
+[https://www.linkedin.com/in/marala-kiran-deep-957378193/](https://www.linkedin.com/in/marala-kiran-deep-957378193/)
